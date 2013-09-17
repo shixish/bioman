@@ -1,0 +1,3 @@
+[submodule "sites/all/themes/bioman"]
+	path = sites/all/themes/bioman
+	url = git@github.com:shixish/bioman-theme.git
